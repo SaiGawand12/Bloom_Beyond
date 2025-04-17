@@ -2,8 +2,6 @@
 
 A modern e-commerce platform for selling premium flowers from around the world, built with React, TypeScript, and Supabase.
 
-![Blooms Beyond Borders](https://images.unsplash.com/photo-1508610048659-a06b669e3321?auto=format&fit=crop&q=80&w=2574&ixlib=rb-4.0.3)
-
 ## ✨ Features
 
 - 🛍️ Browse and purchase flowers from various countries
